@@ -1,0 +1,6 @@
+Overwriting with w+ mode.
+This is a sample file.
+Adding multiple lines using writelines().
+Second line added.
+
+Appending with a+ mode.
